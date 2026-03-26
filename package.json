@@ -1,0 +1,35 @@
+{
+  "name": "sparkchat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server/index.js & next dev",
+    "dev:next": "next dev",
+    "dev:server": "node server/index.js",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "@supabase/supabase-js": "^2.39.0",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "razorpay": "^2.9.2",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^9.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3"
+  }
+}
