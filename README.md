@@ -111,7 +111,6 @@
 </table>
 </div>
 
-> 📁 **To add screenshots:** Save your images in a `screenshots/` folder with the filenames above, then push to GitHub.
 
 ---
 
