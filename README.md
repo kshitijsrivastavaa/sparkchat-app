@@ -104,8 +104,8 @@
 <br/><sub><b>Text Chat — Emoji reactions + Timer</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/chat_ui.png" alt="New Debate Topic" width="100%"/>
-<br/><sub><b>Debate — Maggi vs Pasta 🍜</b></sub>
+<img src="https://github.com/kshitijsrivastavaa/sparkchat-app/blob/main/pictures/next_stranger.png" alt="New Debate Topic" width="100%"/>
+<br/><sub><b>Debate — IOS Vs Android 🍜</b></sub>
 </td>
 </tr>
 </table>
