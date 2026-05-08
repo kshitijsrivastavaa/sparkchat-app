@@ -30,7 +30,7 @@
 <div align="center">
 
 <!-- ADD YOUR DEMO VIDEO BELOW — replace YOUR_VIDEO_ID -->
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Full%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Full%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://github.com/user-attachments/assets/552e04f9-7b26-41d2-9178-7d51af307f13)
 &nbsp;
 [![Try Live](https://img.shields.io/badge/🌐%20Try%20It%20Live-sparkchat--app.vercel.app-FF5C1A?style=for-the-badge)](https://sparkchat-app.vercel.app)
 
