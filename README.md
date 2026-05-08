@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5C1A&center=true&vCenter=true&width=600&lines=Text+%C2%B7+Video+%C2%B7+Voice+Chat;5+Fun+Modes+%C2%B7+5-Min+Timer;Real-time+Matching+%C2%B7+180%2B+Countries;Built+with+%E2%9D%A4%EF%B8%8F+in+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF5C1A&center=true&vCenter=true&width=600&lines=Text+%C2%B7+Video+%C2%B7+Voice+Chat;5+Fun+Modes+%C2%B7+5-Min+Timer;Real-time+Matching+%C2%B7+180%2B+Countries;Built+by+%E2%9D%A4%EF%B8%8F+Kshitij-Srivastava+h+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 <br/>
 
