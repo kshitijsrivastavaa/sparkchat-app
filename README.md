@@ -56,11 +56,11 @@
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/signup.png" alt="Sign Up Step 1" width="100%"/>
+<img src="https://github.com/kshitijsrivastavaa/sparkchat-app/blob/main/pictures/Signup-1.png" alt="Sign Up Step 1" width="100%"/>
 <br/><sub><b>Sign Up — Step 1</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="./screenshots/signup-step2.png" alt="Sign Up Step 2" width="100%"/>
+<img src="https://github.com/kshitijsrivastavaa/sparkchat-app/blob/main/pictures/signup.png" alt="Sign Up Step 2" width="100%"/>
 <br/><sub><b>Sign Up — Step 2 (Age, Country, Language)</b></sub>
 </td>
 </tr>
