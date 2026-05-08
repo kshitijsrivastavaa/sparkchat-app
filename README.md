@@ -46,17 +46,17 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="./screenshots/landing.png" alt="Landing Page" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/loadingpage.png" alt="Landing Page" width="100%"/>
 <br/><sub><b>Landing Page — Choose your vibe</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="./screenshots/login.png" alt="Login Screen" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/loginpage.png" alt="Login Screen" width="100%"/>
 <br/><sub><b>Login — Guest mode available</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="./screenshots/signup-step1.png" alt="Sign Up Step 1" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/signup.png" alt="Sign Up Step 1" width="100%"/>
 <br/><sub><b>Sign Up — Step 1</b></sub>
 </td>
 <td align="center" width="50%">
@@ -73,21 +73,21 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="./screenshots/setup.png" alt="Chat Setup" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/features.png" alt="Chat Setup" width="100%"/>
 <br/><sub><b>Setup — Pick Chat Type & Fun Mode</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="./screenshots/setup-preferences.png" alt="Match Preferences" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/options.png" alt="Match Preferences" width="100%"/>
 <br/><sub><b>Setup — Match Preferences & Country Filter</b></sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="./screenshots/waiting.png" alt="Finding Match" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/finding_match.png" alt="Finding Match" width="100%"/>
 <br/><sub><b>Matching — Finding your spark ⚡</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="./screenshots/chat-debate.png" alt="Debate Mode Chat" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/chat_ui.png" alt="Debate Mode Chat" width="100%"/>
 <br/><sub><b>Chat — Live Debate Mode with timer</b></sub>
 </td>
 </tr>
@@ -100,11 +100,11 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="./screenshots/chat-full.png" alt="Full Chat View" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/messages.png" alt="Full Chat View" width="100%"/>
 <br/><sub><b>Text Chat — Emoji reactions + Timer</b></sub>
 </td>
 <td align="center" width="50%">
-<img src="./screenshots/chat-new-debate.png" alt="New Debate Topic" width="100%"/>
+<img src="https://raw.githubusercontent.com/kshitijsrivastavaa/sparkchat-app/refs/heads/main/pictures/chat_ui.png" alt="New Debate Topic" width="100%"/>
 <br/><sub><b>Debate — Maggi vs Pasta 🍜</b></sub>
 </td>
 </tr>
